@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Codeplay</string>
+    <string-array name="menu_titles">
+        <item>Start</item>
+        <item>Search</item>
+        <item>Users</item>
+        <item>Log in</item>
+        <item>My page</item>
+    </string-array>
 </resources>
